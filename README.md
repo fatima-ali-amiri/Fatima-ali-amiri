@@ -1,3 +1,27 @@
+## 🚀 Featured Projects
+
+### 📚 Book Data Collection & NLP Analysis
+
+**Description:** A Python-based project focused on
+book data collection, data cleaning, analysis,
+and Natural Language Processing.
+
+**Technologies:**
+- Python
+- Pandas
+- Jupyter Notebook
+- Data Visualization
+
+**Dataset:** 1,000 book records.
+
+**Key Features:**
+- Data collection and exploration
+- Missing value and duplicate checking
+- Price and rating analysis
+- Graphical data visualization
+- NLP exploration
+
+**Status:** In Progress
 Hi there, I'm Fatima Ali 👋
 
 💻 BS Information Technology Student | Aspiring Developer
